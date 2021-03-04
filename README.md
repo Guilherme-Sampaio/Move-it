@@ -45,10 +45,16 @@ git clone https://github.com/Guilherme-Sampaio/Move-it.git
 
 cd move-it
 ```
-2. Have <a href='https://nodejs.org/en/' target='_blank' >nodejs</a> in your pc
+
+2. Have <a href='https://nodejs.org/en/' target='_blank' >nodejs</a> in your pc <br/>
 2.1 - Run npm install to download dependencies
 ```bash
 npm install
+```
+
+3. Run the program
+```bash
+npm run dev
 ```
 ---
 ## Used technologies
@@ -58,6 +64,7 @@ npm install
 * Typescript
 * Js-cookie
 * Vercel
+* NPM
 
 ---
 ## Author
