@@ -1,8 +1,4 @@
-<p>
-  <img src='./public/favicon.png'/> 
-  <h1>Move-it</h1>
-</p>
-
+# Move-it
 > An app for people that stay a long time in the computer, based in pomodoro's tecnic, wich start a 25 minutes timer and in the end of the time give a physical challenge or for vision, encouraging the stretching  and preventing health problems.
 
 
@@ -25,12 +21,12 @@ Status: **Development in progress.**
 ## Features
 
 - [x] Build the default project
-- [] Make the app more responsive
-- [] Make a login page
-- [] Make a side-bar
-- [] Make a leaderboard
-- [] Make a way to progress sharing
-- [] Transform the page in PWA
+- [ ] Make the app more responsive
+- [ ] Make a login page
+- [ ] Make a side-bar
+- [ ] Make a leaderboard
+- [ ] Make a way to progress sharing
+- [ ] Transform the page in PWA
 
 ---
 ## Demonstration
