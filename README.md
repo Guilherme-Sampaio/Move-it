@@ -1,16 +1,20 @@
-![Moveit](./public/favicon.png) <h1>Move-it</h1> 
+<p>
+  <img src='./public/favicon.png'/> 
+  <h1>Move-it</h1>
+</p>
+
 > An app for people that stay a long time in the computer, based in pomodoro's tecnic, wich start a 25 minutes timer and in the end of the time give a physical challenge or for vision, encouraging the stretching  and preventing health problems.
 
----
+
 ## Table of contents
 
-* Project status
-* Features
-* Demonstration
-* How to run
-* Used technologies
-* Author
-* License
+* [Project status](#project-status)
+* [Features](#features)
+* [Demonstration](#demonstration)
+* [How to run](#how-to-run)
+* [Used technologies](#used-technologies)
+* [Author](#author)
+* [License](#license)
 
 ---
 ## Project Status
@@ -20,21 +24,21 @@ Status: **Development in progress.**
 ---
 ## Features
 
-[x]Build the default project
-[]Make the app more responsive
-[]Make a login page
-[]Make a side-bar
-[]Make a leaderboard
-[]Make a way to progress sharing
-[]Transform the page in PWA
+- [x] Build the default project
+- [] Make the app more responsive
+- [] Make a login page
+- [] Make a side-bar
+- [] Make a leaderboard
+- [] Make a way to progress sharing
+- [] Transform the page in PWA
 
 ---
 ## Demonstration
 
 ![Demonstration](./public/pageprint.png)
-Link: <https://move-it-samp.vercel.app/>
+<a href='https://move-it-samp.vercel.app' target='_blank' >Link of project in the Vercel</a>
 
---
+---
 ## How to run
 
 If you want to run locally, you will need the following steps:
@@ -45,7 +49,7 @@ git clone https://github.com/Guilherme-Sampaio/Move-it.git
 
 cd move-it
 ```
-2. Have nodejs in your pc <https://nodejs.org/en/>
+2. Have <a href='https://nodejs.org/en/' target='_blank' >nodejs</a> in your pc
 2.1 - Run npm install to download dependencies
 ```bash
 npm install
@@ -62,17 +66,16 @@ npm install
 ---
 ## Author
 
-<a href="https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU">
+<a href="https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU" target='_blank'>
 <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEoAQjPfuC4PA/profile-displayphoto-shrink_200_200/0/1602284719328?e=1619654400&v=beta&t=vFvlPgpeJMtJytGnNuNBfPc1roogY197ZgKrB0Dh9Tw" width="100px;" alt=""/>
 </a>
 </br>
-<a href="https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU">
+<a href="https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU" target='_blank'>
 Guilherme Sampaio
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU)](https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU) 
 [![Gmail Badge](https://img.shields.io/badge/-kaisergui258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaisergui258@gmail.com)](mailto:kaisergui258@gmail.com)
-
 
 ---
 ## License
