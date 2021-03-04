@@ -7,7 +7,7 @@ import { LevelUpModal } from '../components/LevelUpModal';
 interface Challenge {
   type: 'body' | 'eye';
   description: string;
-  amout: number;
+  amount: number;
 }
 
 interface ChallengesContextData {
